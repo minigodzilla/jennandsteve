@@ -1,0 +1,81 @@
+
+-------------------------------------------------------------------------------
+
+Please enter your invitation code.
+[    ] (3 digit numberic code for now)
+
+[Continue]
+
+-------------------------------------------------------------------------------
+
+IF invitation includes a named spouse/guest:
+
+	Welcome [name] and [guest]!
+
+IF invitation includes only one name:
+
+	Welcome [name]!
+
+	Will you be bringing a guest?
+	[ ] Yes
+	[ ] No
+
+	IF yes:
+
+		What is your guest's name?
+		[        ] (name field, 100 char limit)
+
+[Continue]
+
+-------------------------------------------------------------------------------
+
+Will you be bringing children? If so, how many?
+
+[0, 1, 2, 3] (dropdown up to 3);
+
+IF 1/2/3:
+
+	(repeats for each child)
+
+	What is your first child guest's name?
+	[        ] (name field, 100 char limit)
+
+[Continue]
+
+-------------------------------------------------------------------------------
+
+Meal options for [name]
+
+[ ] Meal 1
+[ ] Meal 2
+[ ] Vegetarian meal
+
+Will this guest be drinking alcohol?
+[ ] (checkbox)
+
+Dietary restrictions?
+
+[        ] (textarea, 500 char limit)
+
+[Continue]
+
+-------------------------------------------------------------------------------
+
+(repeats previous page for guest or child -- child has kid meal options)
+
+-------------------------------------------------------------------------------
+
+Please give us your contact email. All future communication will be sent to
+this email. You will receive an itinerary, directions to the venue, and other
+surprises!
+
+[        ] (email field)
+
+[Complete Invitation]
+
+-------------------------------------------------------------------------------
+
+Thanks from Jenn and Steve! We can't wait to see you!
+
+-------------------------------------------------------------------------------
+
